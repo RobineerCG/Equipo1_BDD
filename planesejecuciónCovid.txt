@@ -1,8 +1,8 @@
-**********************************
+***********************************
 Cordova Galvan Roberto.
 Pedroza Velarde Luis Rodrigo.
 Torres Sánchez Edgar.
-**********************************
+***********************************
 
 Rutas en el Repositorio:
 ->Para el archivo de las consultas en sql
