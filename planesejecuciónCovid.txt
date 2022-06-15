@@ -1,0 +1,13 @@
+***********************************
+Cordova Galvan Roberto.
+Pedroza Velarde Luis Rodrigo.
+Torres Sánchez Edgar.
+***********************************
+
+Rutas en el Repositorio:
+->Para el archivo de las consultas en sql
+Equipo1_BDD/Equipo1_Planes de Ejecución/Equipo 1_Consultas planes de ejecucion.sql
+
+->Para el documento donde viene el análisis de las consultas y los planes de ejecución.
+Equipo1_BDD/Equipo1_Planes de Ejecución/Equipo1_Planes de Ejecución.pdf
+
