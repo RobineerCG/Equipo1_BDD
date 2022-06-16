@@ -6,4 +6,4 @@ Torres Sánchez Edgar.
 
 -> para el archivo de la aplicación con el patron de diseño DAO
 
-Equipo1_BDD/AplicacionBDDD.ra
+Equipo1_BDD/AplicacionBDDD.rar
