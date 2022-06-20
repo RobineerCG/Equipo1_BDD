@@ -1,0 +1,16 @@
+***********************************
+Cordova Galvan Roberto.
+Pedroza Velarde Luis Rodrigo.
+Torres Sánchez Edgar.
+***********************************
+
+->Ruta para los archivos de fragmentacion
+
+Equipo1_BDD/Equipo1_Fragmentación/BD1(Region 1).bak
+Equipo1_BDD/Equipo1_Fragmentación/DB1(Region 2).bak
+Equipo1_BDD/Equipo1_Fragmentación/DB2(Region 3).bak
+Equipo1_BDD/Equipo1_Fragmentación/DB_NOF(Tablas no fragmentadas).bak
+Equipo1_BDD/Equipo1_Fragmentación/Fragmentacion equipo 1.pdf
+Equipo1_BDD/Equipo1_Fragmentación/Fragmentacion (instancia 1).sql
+Equipo1_BDD/Equipo1_Fragmentación/Fragmentacion (instancia 2).sql
+Equipo1_BDD/Equipo1_Fragmentación/consultas.sql
