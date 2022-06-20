@@ -1,0 +1,9 @@
+***********************************
+Cordova Galvan Roberto.
+Pedroza Velarde Luis Rodrigo.
+Torres Sánchez Edgar.
+***********************************
+
+-> para el archivo de la aplicación con el patron de diseño DAO
+
+Equipo1_BDD/Equipo1_Practica2.pdf
